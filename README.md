@@ -91,10 +91,12 @@ plt.title("customer segments")
 ### 5. KMeans Clusters:
 
 ![linear regression using gradient descent](Output5.png)
-
-### 6. Customer segments Graph:
+### 6. y_Pred:
 
 ![linear regression using gradient descent](Output6.png)
+### 7. Customer segments Graph:
+
+![linear regression using gradient descent](Output7.png)
 
 
 ## Result:
